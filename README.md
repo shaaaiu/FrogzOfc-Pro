@@ -65,7 +65,7 @@ or option2
 ### 📂 In package.json:
 ```json
 "dependencies": {
-    ""@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys"
+    "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys"
 }
 ```
 
